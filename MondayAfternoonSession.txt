@@ -1,0 +1,35 @@
+14:05:47	 From Ruth Duerr : Addition of ice to the base of sea ice by freezing. If new and young ice are not deformed into rafts or ridges, they will continue to grow by congelation. Congelation ice has distinctive columnar crystal texture due to the downward growth of the crystals into the water. It is very common in Arctic pack ice and fast ice. In limnology it is called 'black ice'. Congelation derives from 'congeal', meaning freeze or thicken, increase in viscosity.
+14:10:10	 From Pier Luigi Buttigieg : come back to the calf
+14:26:30	 From Ruth Duerr : Ice caves contain predominantly two types of ice: congelation ice and recrystallized snow; hoarfrost rarely occurs. Congelation ice is noted mainly in caves characterized by a dynamic microclimate, in areas near the lowermost entrances of such caves.
+14:31:40	 From Ruth Duerr : Luetscher, Marc, and Pierre-Yves Jeannin. "A process-based classification of alpine ice caves." Theoretical and Applied Karstology 17, no. 5 (2004): 10.
+14:34:50	 From Pier Luigi Buttigieg : “GCW Terminology and Vocabulary Assessment Report 2018”, GCW report #23/2018
+14:46:05	 From Ruth Duerr : In hydrologic terms, pieces of floating ice moving under the action of wind and/ or currents.
+14:48:51	 From Ruth Duerr : This term is used in a wide sense to include any area of ice, other than fast ice, no matter what form it takes or how it gets there. When concentrations are high (7/10 or more) the term pack ice is normally used. When concentrations are 6/10 or less the term drift ice is normally used.
+15:41:11	 From Ruth Duerr : Sea ice that forms and remains fast along the coast, where it is attached to the shore, to an ice wall, to an ice front, between shoals or grounded icebergs. Vertical fluctuations may be observed during changes of sea level. Fast ice may be formed on site from sea water or by freezing of pack ice of any age to the shore, and it may extend a few yards (meters) or several hundred miles (kilometers) from the coast. Fast ice may be more than one year old and may then be prefixed with appropriate age category (old, second- year, or multiyear). If it is thicker than about 7 ft (2 m) above sea level, it is called an ice shelf.
+15:51:37	 From Pier Luigi Buttigieg : SDGIO link to fast ice and Arctic communities
+15:55:40	 From Ruth Duerr : Any contiguous piece of sea ice. Floes are subdivided according to horizontal extent as follows:
+
+Floe giant: Over 10 km across.
+Floe vast: 2-10 km across.
+Floe big: 500-2000 m across.
+Floe medium: 100-500 m across.
+Floe small: 20-100 m across.
+Ice cake: Less than 20 m across.
+Small ice cake: Less than 2 m across.
+15:59:34	 From Ruth Duerr : A cohesive sheet of ice floating in the water; the sea ice cover is made up of conglomerates of floes; ice floes are not unique to sea ice, as they also occur in rivers and lakes.
+16:06:23	 From Ruth Duerr : Fine spicules, plates, or discoids of ice suspended in water.
+16:06:52	 From Ruth Duerr : Small needle-like ice crystals, typically 3 to 4 millimeters in diameter, suspended in water.  They represent the first stages of sea ice growth; they merge under calm conditions to form thin sheets of ice on the surface, and consist of nearly pure fresh water.  In fresh water, they form in supercooled water that is too turbulent to permit coagulation into sheet ice.  This is most common in swiftly flowing streams. They may accumulate as anchor ice on submerged objects obstructing the water flow.
+
+Has synonyms frazil crystals and needle ice.
+16:19:24	 From Ruth Duerr : Soil or rock in which part or all of the pore water has turned into ice. 
+
+Perennially and seasonally frozen ground can vary from being partially to extensively frozen depending on the extent of the phase change. It may be described as hard frozen ground, plastic frozen ground, or dry frozen ground, depending on the pore ice and unfrozen water contents and its compressibility under load. Hard-frozen soils are firmly cemented by ice, are subject to brittle failure, and exhibit practically no consolidation under load. Plastic-frozen soils are cemented by ice but have viscous properties due to their high unfrozen water content and therefore will compress and deform under load. Dry, or friable-frozen, soils have a very low total water content and are not cemented by Ice; their compressibility is the same as for unfrozen soils having the same composition, total water content and density.
+16:48:53	 From Ruth Duerr : We need to work on the definition of glacier with the science community
+16:49:51	 From Ruth Duerr : 1. Whether or not a mass of ice must currently show movement to be considered a glacier or not
+
+2. What is the relationship between ice sheets and glaciers (i.e., which is the parent in a parent/child relationship or whether they are distinct terms)
+16:52:02	 From Ruth Duerr : The terminus is the lowest end of a glacier.
+
+Has synonyms glacier snout or glacier toe.
+17:00:45	 From Pier Luigi Buttigieg : https://github.com/ESIPFed/sweet/blob/master/src/realmCryo.ttl
+17:01:00	 From Pier Luigi Buttigieg : https://github.com/ESIPFed/sweet/blob/master/src/realmCryo.ttl#L120

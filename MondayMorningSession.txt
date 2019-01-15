@@ -1,0 +1,16 @@
+10:04:34	 From Ruth Duerr : Hi Pier - it looks like you don’t have sound
+10:08:16	 From Pier Luigi Buttigieg : https://github.com/EnvironmentOntology/environmental-exposure-ontology
+10:14:17	 From Pier Luigi Buttigieg : This is an experimental mapping: https://github.com/cmungall/sweet-obo-alignment
+10:55:06	 From Ruth Duerr : The part of the glacier where ablation exceeds accumulation in magnitude, that is, where the cumulative mass balance relative to the start of the mass-balance year is negative. Unless qualified, for example by giving a date within the year, references to the ablation zone refer to its extent at the end of the mass-balance year. The extent of the ablation zone can vary strongly from year to year.
+10:55:22	 From Ruth Duerr : Cogley et al. IACS-UNESCO Glacier Mass Balance 2011
+10:55:46	 From Ruth Duerr : Region in a glacier where there is a surface net removal of snow and/or ice by melting, sublimation, and/or calving.
+10:56:04	 From Ruth Duerr : http://physicalgeography.net/
+10:56:24	 From Ruth Duerr : he part of the glacier, usually at lower elevations, where ablation exceeds accumulation in magnitude, that is, where the cumulative mass balance relative to the start of the mass-balance year is negative. Unless qualified, for example by giving a date within the year, references to the ablation zone refer to its extent at the end of the mass-balance year. The extent of the ablation zone can vary strongly from year to year. A synonym of ablation area.
+10:57:24	 From Ruth Duerr : “GCW Terminology and Vocabulary Assessment Report 2018”, GCW report #23/2018
+11:08:58	 From Ruth Duerr : That part of a glacier's surface, usually at higher elevations, on which there is net accumulation of snow, which subsequently turns into firn and then glacier ice. A synonym of accumulation area and the opposite of ablation zone.
+11:22:25	 From Ruth Duerr : A form of tundra in which the absence of trees is due to high altitude instead of high latitude. It lies roughly between the summer isotherm of 10C and the snow line. This high altitude biome is dominated by a few species of dwarf shrubs, a few grasses, sedges, lichens, and mosses. Productivity is low in this biome because of the extremes of climate.
+
+A synonym of mountain tundra.
+11:51:24	 From Ruth Duerr : The calf case is an interesting case for a paper
+12:10:15	 From Pier Luigi Buttigieg : (part of a paper : )  )
+12:15:41	 From Pier Luigi Buttigieg : Biome (alpine) too vs ecosystem ambiguity
